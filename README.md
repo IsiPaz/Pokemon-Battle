@@ -1,25 +1,15 @@
 # POKEMON BATTLE
-
-
-_
-|                                               |/
-|__________      ________     ____   ___   _________   _____  ______   ________    _____      ___
-|     ___  \    /        \   |    | /  /  |        |  |     \/     |  /        \  |     \    |   |
-|    |___\  \   |  ____  |   |    |/  /   |    ____|  |            | |   _____  | |      \   |   |
-|    |___/  /   | |    | |   |       /    |   |____   |   |\  /|   | |  |    |  | |   |\  \  |   |
-|     _____/    | |    | |   |       \    |    ____|  |   | \/ |   | |  |    |  | |   | \  \ |   |
-|     |         | |____| |   |        \   |   |____   |   |    |   | |  |____|  | |   |  \  \|   |
-|     |         |        |   |    |\   \  |        |  |   |    |   | |          | |   |   \      |
-|_____|         \________/   |____| \___\ |________|  |___|    |___| \_________/  |___|    \_____|
+ 
+Como proyecto final para el ramo Lenguajes de Programación se crea **POKÉMON BATTLE**, una aplicación que emula combates simples entre pokemon al estilo de los juegos originales que se encuentran en consolas, esto implica la utilización de mochila, cambios de personajes y desarrollo de bots enemigos por dificultad. 
  
 ## Pokemon Python Edition
 
-Para encontrar el Media haz click en este [enlace] (https://drive.google.com/drive/folders/1lBofw_ffs2kMsXWNYDUVr-gt5x_a2TYh?usp=sharing)
+Para encontrar el Media haz click en este [enlace](https://drive.google.com/drive/folders/1lBofw_ffs2kMsXWNYDUVr-gt5x_a2TYh?usp=sharing)
 
 ## Team
-Isidora Ubilla
-Sebastian Martinez
-Iñaki Oyarzun
+- Isidora Ubilla
+- Sebastian Martinez
+- Iñaki Oyarzun
 
 ## Instrucciones
 
