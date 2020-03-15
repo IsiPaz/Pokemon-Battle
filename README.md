@@ -1,4 +1,6 @@
-                                                 _
+#POKEMON BATTLE
+
+_
 |                                               |/
 |__________      ________     ____   ___   _________   _____  ______   ________    _____      ___
 |     ___  \    /        \   |    | /  /  |        |  |     \/     |  /        \  |     \    |   |
@@ -9,23 +11,16 @@
 |     |         |        |   |    |\   \  |        |  |   |    |   | |          | |   |   \      |
 |_____|         \________/   |____| \___\ |________|  |___|    |___| \_________/  |___|    \_____|
  
-Pokemon Python Edition
+##Pokemon Python Edition
 
-https://youtu.be/ImP4vGHrQ0k
+Para encontrar el Media haz click en este [enlace] (https://drive.google.com/drive/folders/1lBofw_ffs2kMsXWNYDUVr-gt5x_a2TYh?usp=sharing)
 
-DRIVE:
-https://drive.google.com/drive/folders/1lBofw_ffs2kMsXWNYDUVr-gt5x_a2TYh?usp=sharing
+## Team
+Isidora Ubilla
+Sebastian Martinez
+Iñaki Oyarzun
 
-POR PROBLEMAS DE TAMAÑO NO SE PUDO CON SUBIR NI A MOODLE NI A GITHUB
-******************************************************************
-Nombre Integrantes - ROL:
-
-Isidora Ubilla - 201804581-0
-Sebastian Martinez - 201873519-1 
-Iñaki Oyarzun - 201873620-1
-
-******************************************************************
-Instrucciones
+## Instrucciones
 
 1- ASEGURARSE DE TENER INSTALADO la libreria Pygame y PIL
 	EN caso de no tener instalada alguna libreria EL PROGRAMA SE CERRARA AUTOMATICAMENTE
@@ -36,6 +31,4 @@ Instrucciones
 	-Si es desde windows, una vez dentro de la carpeta mencionada anteriormente, utilizar el comando "py pokemon.py", para abrir la ventana de juego
 	-Si es desde windowa, una vez dentro de la carpeta mencionada anteriormente, utilizar el comando "python3 pokemon.py" para abrir la ventana de juego
 
-LINK DEL VIDEO:
 
-https://youtu.be/ImP4vGHrQ0k
