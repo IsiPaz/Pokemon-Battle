@@ -1,5 +1,6 @@
 #POKEMON BATTLE
 
+
 _
 |                                               |/
 |__________      ________     ____   ___   _________   _____  ______   ________    _____      ___
@@ -11,7 +12,7 @@ _
 |     |         |        |   |    |\   \  |        |  |   |    |   | |          | |   |   \      |
 |_____|         \________/   |____| \___\ |________|  |___|    |___| \_________/  |___|    \_____|
  
-##Pokemon Python Edition
+## Pokemon Python Edition
 
 Para encontrar el Media haz click en este [enlace] (https://drive.google.com/drive/folders/1lBofw_ffs2kMsXWNYDUVr-gt5x_a2TYh?usp=sharing)
 
