@@ -20,6 +20,6 @@ Para encontrar el Media haz click en este [enlace](https://drive.google.com/driv
 
 2. Abrir consola dentro de la carpeta donde se encuentra el juego,
 	- Si es desde windows, una vez dentro de la carpeta mencionada anteriormente, utilizar el comando "py pokemon.py", para abrir la 		ventana de juego
-	- Si es desde windowa, una vez dentro de la carpeta mencionada anteriormente, utilizar el comando "python3 pokemon.py" para abrir 		la ventana de juego
+	- Si es desde windows, una vez dentro de la carpeta mencionada anteriormente, utilizar el comando "python3 pokemon.py" para abrir 		la ventana de juego
 
 
